@@ -1,0 +1,6 @@
+D:\Dot-Net-Course\Examples\Library2\Library2\bin\Library2.dll.config
+D:\Dot-Net-Course\Examples\Library2\Library2\bin\Library2.dll
+D:\Dot-Net-Course\Examples\Library2\Library2\bin\Library2.pdb
+D:\Dot-Net-Course\Examples\Library2\Library2\obj\Debug\Library2.csprojResolveAssemblyReference.cache
+D:\Dot-Net-Course\Examples\Library2\Library2\obj\Debug\Library2.dll
+D:\Dot-Net-Course\Examples\Library2\Library2\obj\Debug\Library2.pdb

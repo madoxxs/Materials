@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.View.AboutBox1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.InfoForm.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.View.GroupsForm.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.View.RegisterForm.resources

@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\HelloWorld\obj\x86\Debug\HelloWorld.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\HelloWorld\obj\x86\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\HelloWorld\obj\x86\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PS_53_Simeon\HelloWorld\obj\x86\Debug\HelloWorld.pdb

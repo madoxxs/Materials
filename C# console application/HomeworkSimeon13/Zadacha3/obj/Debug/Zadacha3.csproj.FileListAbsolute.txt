@@ -1,0 +1,6 @@
+D:\simeon_csharp\domashni\HomeworkSimeon13\Zadacha3\bin\Debug\Zadacha3.exe.config
+D:\simeon_csharp\domashni\HomeworkSimeon13\Zadacha3\bin\Debug\Zadacha3.exe
+D:\simeon_csharp\domashni\HomeworkSimeon13\Zadacha3\bin\Debug\Zadacha3.pdb
+D:\simeon_csharp\domashni\HomeworkSimeon13\Zadacha3\obj\Debug\Zadacha3.csprojResolveAssemblyReference.cache
+D:\simeon_csharp\domashni\HomeworkSimeon13\Zadacha3\obj\Debug\Zadacha3.exe
+D:\simeon_csharp\domashni\HomeworkSimeon13\Zadacha3\obj\Debug\Zadacha3.pdb
